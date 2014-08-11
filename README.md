@@ -1,9 +1,9 @@
-# Redis Cloud Ruby Sample
+# Redis Cloud Ruby Sinatra Sample
 
-A Ruby Sinatra sample app that demonstrates how [Redis]{http://redis.io) can be used at Heroku.
-[SET](http://redis.io/commands/SET) and [GET](http://redis.io/commands/SET) a key, get your Redis [INFO](http://redis.io/commands/INFO) and [FLUSH](http://redis.io/commands/FLUSHDB) your db.
+A Ruby Sinatra sample app that demonstrates [Redis Cloud](http://redis.io) deployment to Heroku.<br />
+[SET](http://redis.io/commands/SET) and [GET](http://redis.io/commands/SET) a key, get your db [INFO](http://redis.io/commands/INFO) and [FLUSH](http://redis.io/commands/FLUSHDB) the db.
 
-The app is currently running on Heroku: [https://rediscloud-ruby-sinatra-sample.herokuapp.com/](https://rediscloud-ruby-sinatra-sample.herokuapp.com/), and uses [Redis Cloud](https://addons.heroku.com/rediscloud) as a backend.
+The app is currently running at: [https://rediscloud-ruby-sinatra-sample.herokuapp.com/](https://rediscloud-ruby-sinatra-sample.herokuapp.com/), and uses [Redis Cloud](https://addons.heroku.com/rediscloud) as a backend.
 
 ## Deploy to Heroku
 
