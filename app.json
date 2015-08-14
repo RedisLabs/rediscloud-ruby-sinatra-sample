@@ -1,6 +1,7 @@
 {
   "name": "Redis Cloud Ruby Sample",
   "description": "Ruby Sinatra app demonstarting Redis Cloud deployment to Heroku",
+  "image": "heroku/ruby",
   "repository": "https://github.com/RedisLabs/rediscloud-ruby-sinatra-sample",
   "logo": "https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/1028/original.png",
   "keywords": ["ruby", "sinatra", "redis", "redis cloud" ],
